@@ -1,0 +1,28 @@
+.container{
+    width: 80%;
+}
+.cardimg{
+    height: 60%;
+    width: 100%;
+    object-fit: cover;
+}
+.cardimg img{
+    height: 100%;
+    width: 100%;
+    
+}
+.col-3{
+    width: calc(100% / 12 * 3);
+}
+.title{
+    padding: 8px 0;
+}
+.price{
+    padding: 8px 0;
+}
+.category{
+    padding: 8px 0;
+}
+.rating{
+    padding: 8px 0;
+}
